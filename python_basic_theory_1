@@ -1,1 +1,37 @@
 ###Variáveis
+
+a = 3
+print(a)
+3
+
+b ="Juventude digital"
+print(b)
+Juventude digital
+
+print("instituição")
+print(b)
+instituição
+Juventude digital
+
+print('O valor de a é: {}'.format(a))
+O valor de a é  5
+
+print('O valor de a é '+ str(a))
+O valor de a é 5
+
+
+print('O valor de a é ',a)
+O valor de a é  5
+
+c = 1
+d = 2
+e = 3
+f = 4
+or
+c, d, e, f = 1, 2, 3, 4
+to declare value to a variable.
+
+###Boas Práticas
+
+
+
